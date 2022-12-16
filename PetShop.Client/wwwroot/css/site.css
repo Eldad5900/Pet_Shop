@@ -1,0 +1,204 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.col-sm-11 {
+    height: 60%;
+    width: 40%;
+}
+
+.col-sm-3 {
+    height: 20%;
+    width: 20%;
+}
+
+.bodyStart {
+}
+
+.table {
+    color: black
+}
+
+.poto {
+    height: 5%;
+    width: 5%;
+}
+
+.container-fluid {
+    background: linear-gradient(500deg,#ffffff 0%,#000000 300%);
+}
+
+td {
+    color: black
+}
+h6 {
+    color: black;
+}
+
+.social-menu ul {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+    .social-menu ul li {
+        list-style: none;
+        margin: 0 10px;
+    }
+
+        .social-menu ul li .fa {
+            color: #000000;
+            font-size: 25px;
+            line-height: 50px;
+            transition: .5s;
+        }
+
+            .social-menu ul li .fa:hover {
+                color: #ffffff;
+            }
+
+        .social-menu ul li a {
+            position: relative;
+            display: block;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: white;
+            text-align: center;
+            transition: 0.5s;
+            transform: translate(0,0px);
+            box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);
+        }
+            .social-menu ul li a:hover {
+                transform: rotate(0deg) skew(0deg) translate(0, -10px);
+            }
+
+        .social-menu ul li:nth-child(1) a:hover {
+            background-color: #55acee;
+        }
+
+        .social-menu ul li:nth-child(2) a:hover {
+           
+            background: linear-gradient(#e4405f,#55acee);
+        }
+
+        .social-menu ul li:nth-child(3) a:hover {
+            background-color: black;
+        }
+
+        .social-menu ul li:nth-child(4) a:hover {
+            background-color: #cd201f;
+        }
+
+        .social-menu ul li:nth-child(5) a:hover {
+            background-color: #0077B5;
+        }
+
+
+
+
+.bodylogin {
+    background: linear-gradient(#3b5999,#ffffff);
+  
+    font-family: 'Ubuntu', sans-serif;
+}
+.main {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 400px;
+    margin: 7em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+    .from {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 400px;
+    margin: 7em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+.title {
+    padding-top: 40px;
+    color: #8C55AA;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+}
+.un {
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.pass {
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+    .un:focus, .pass:focus {
+        border: 2px solid rgba(0, 0, 0, 0.18) !important;
+    }
+.submit {
+    cursor: pointer;
+    border-radius: 5em;
+    color: #fff;
+    background: linear-gradient(to right, #9C27B0, #E040FB);
+    border: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 35%;
+    font-size: 13px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+}
+
+

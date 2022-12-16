@@ -1,0 +1,15 @@
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\bin\Debug\net6.0\PetShop.Service.deps.json
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\bin\Debug\net6.0\PetShop.Service.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\bin\Debug\net6.0\PetShop.Service.pdb
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\bin\Debug\net6.0\PetShop.Data.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\bin\Debug\net6.0\PetShop.Data.pdb
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\PetShop.Service.csproj.AssemblyReference.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\PetShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\PetShop.Service.AssemblyInfoInputs.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\PetShop.Service.AssemblyInfo.cs
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\PetShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\PetShop.Service.csproj.CopyComplete
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\PetShop.Service.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\refint\PetShop.Service.dll
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\PetShop.Service.pdb
+C:\Users\eldad\OneDrive\Desktop\sela1050 ראשי\ASP.NET\PetShop\PetShop.Service\obj\Debug\net6.0\ref\PetShop.Service.dll

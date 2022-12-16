@@ -1,0 +1,50 @@
+﻿@model IEnumerable<PetShop.Data.Model.Animal>
+@{
+    ViewData["Title"] = "Starting";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<body class="bodyStart">
+<h1>Hello Welcome to Pet Shop</h1>
+
+<p>The two most highil rated pets tode are :</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.PhtotoUrl)
+                
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                 @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comments.Count)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>  
+            <td>
+                <img src="@item.PhtotoUrl" class = "col-sm-3"> 
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Comments.Count)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+
+
